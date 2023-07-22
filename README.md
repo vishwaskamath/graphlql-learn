@@ -1,3 +1,3 @@
-# lco-graphql
+# Graphql
 
 Starter project to learn graphql
